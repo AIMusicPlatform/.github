@@ -7,8 +7,6 @@
 [![Vue](https://img.shields.io/badge/Vue-3.4+-green.svg)](https://vuejs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)](https://flutter.dev/)
 
-English | [中文](./README.md)
-
 ## 📖 Introduction
 
 AI Music Platform is a cross-platform intelligent application that provides personalized music recommendations and English learning assistance through AI technology. The project adopts a front-end and back-end separation architecture, supporting Web and mobile platforms (based on Flutter, supporting iOS, Android, and HarmonyOS).
